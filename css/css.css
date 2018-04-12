@@ -1,0 +1,8 @@
+body{
+	height: 1500px;
+	background-color: #424242;
+}
+
+.navbar-inverse,.navbar,.navbar-fixed-top{
+	background-color: #212121;
+}
